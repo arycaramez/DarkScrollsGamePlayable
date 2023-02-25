@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/37397920/221334179-0ab54805-cd22-42f9-b898-8c0fdf5495b4.gif">
+</p>
+
 # Dark Scrolls - Playable Game
 Esse jogo foi criado à alguns anos, decidi colocar a versão alpha disponível para ser jogada (é uma obra autoral, o uso indevido de imagem ou reprodução será sujeita a tratativas legais sobre o uso de propriedade intelectual indevida).
 

@@ -28,7 +28,3 @@ Obs:<br>
 - PC.
 
 Obs: Essa versão está sendo executada em WebGL e por este motivo pode apresentar lentidão em alguns momentos pois foi desenvolvida originalmente para outra plataforma.
-
-## Pontos de Melhoria:
-- Correção do erro de reload do level, após derrotar o Boss da fase é dada a opção de reiniciar a fase, ao reinicia-la o mouse trava no centro da tela, isso será corrigido futuramente.
-- O escudo do personagem será reprogramado para executar sua funcionalidade de impedir os ataques inimigos.

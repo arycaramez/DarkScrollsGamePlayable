@@ -19,7 +19,7 @@ O jogo foi criado à alguns anos, decidi colocar a versão alpha disponível par
 - Barra de espaço + posição do mouse -> Teleporta o personagem ao exato ponto onde se encontra o mouse, não funciona caso exista algum objeto entre o personagem e o ponto final do teleporte, isso faz parte da mecânica da "magia" do personagem.
 
 Dicas:<br>
-1ª -> Algumas magias conseguem empurrar os inimigos, esse efeito impede momentaneamente os ataques do alvo. Isso não ocorre com o Boss, ele é imune a esse efeito.
+1ª -> Algumas magias conseguem empurrar os inimigos, esse efeito impede momentaneamente os ataques do alvo. Isso não ocorre com o Boss, ele é imune a esse efeito.<br>
 2ª -> Alguns elementos no cerário interagem com certos elementos da natureza, tente usar uma magia nele.
 
 ## Motor de Jogos:
